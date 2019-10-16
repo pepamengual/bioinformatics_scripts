@@ -13,3 +13,8 @@ This folder cointains all files needed to compute the r-squared correlation of a
 #### monte_carlo_compute_pi
 
 This folder cointains all files needed for a Monte Carlo predictor in python3 and in cython. User can modify the number of runs in the main() function of the python script, to see how important is computing efficiency when the number of calculations increase. In the end, it prints an approximation of the pi-value, and the elapsed time for python3 and cython.
+
+
+#### peptide_maker
+
+This folder cointains all files needed to model peptides into peptide-HLA complexes. Information about how to run it can be found inside of the folder.
